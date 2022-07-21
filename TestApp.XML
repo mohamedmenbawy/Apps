@@ -1,0 +1,11 @@
+<app>
+     <id>MyApp001</id>
+     <name>Exchange Rates XE</name>
+     <provider>Exchange Rate XE</provider>
+     <description>A tool to see the current interest rate</description>
+     <extensionpoint>
+          <location>CLIENT_VIEW</location>
+          <label>Exchange Rate XE</label>
+          <url>https://www.xe.com/</url>
+     </extensionpoint>
+</app>
