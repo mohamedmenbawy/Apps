@@ -1,0 +1,11 @@
+<app>
+     <id>MyApp001</id>
+     <name>Exchange Rates Oanda</name>
+     <provider>Exchange Rate Oanda</provider>
+     <description>A tool to see the current exchange rate</description>
+     <extensionpoint>
+          <location>CLIENT_VIEW</location>
+          <label>Exchange Rate Oanda</label>
+          <url>https://www.oanda.com/currency-converter/en//</url>
+     </extensionpoint>
+</app>
