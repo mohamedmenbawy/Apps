@@ -1,11 +1,11 @@
 <app>
      <id>MyApp002</id>
-     <name>Exchange Rates Oanda</name>
-     <provider>Exchange Rate Oanda</provider>
-     <description>A tool to see the current exchange rate</description>
+     <name>Google</name>
+     <provider>Google</provider>
+     <description>Test Google browser</description>
      <extensionpoint>
           <location>CLIENT_VIEW</location>
-          <label>Exchange Rate Oanda</label>
-          <url>https://www.oanda.com/currency-converter/en/</url>
+          <label>Google</label>
+          <url>https://www.google.com/</url>
      </extensionpoint>
 </app>
