@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>CLIENT_VIEW</location>
           <label>Exchange Rate Oanda</label>
-          <url>https://www.oanda.com/currency-converter/en//</url>
+          <url>https://www.oanda.com/currency-converter/en/</url>
      </extensionpoint>
 </app>
